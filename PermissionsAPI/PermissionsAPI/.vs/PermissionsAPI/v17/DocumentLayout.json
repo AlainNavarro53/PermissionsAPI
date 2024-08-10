@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\cqrs\\handlers\\updatetipopermisohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\cqrs\\handlers\\updatetipopermisohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\cqrs\\handlers\\requestpermissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\cqrs\\handlers\\requestpermissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\cqrs\\handlers\\modifypermissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\cqrs\\handlers\\modifypermissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\cqrs\\handlers\\getpermissionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\cqrs\\handlers\\getpermissionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\cqrs\\handlers\\getalltipopermisoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\cqrs\\handlers\\getalltipopermisoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\cqrs\\handlers\\createtipopermisohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\cqrs\\handlers\\createtipopermisohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\models\\tipopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:models\\tipopermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dtos\\tipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dtos\\tipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dtos\\requesttipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dtos\\requesttipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dtos\\requestpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dtos\\requestpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dtos\\permissiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dtos\\permissiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dtos\\modifypermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dtos\\modifypermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\dtos\\createtipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:dtos\\createtipopermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\data\\repositories\\tipopermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:data\\repositories\\tipopermisorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\data\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:data\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\services\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:services\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F46C1A5-E355-4A6C-909B-CE393E92A2D0}|..\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi.testss\\unittest\\permissionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|c:\\users\\metrica andina\\desktop\\permissionsapi\\permissionsapi\\controllers\\tipopermisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E26927-BD27-402B-946E-59D83FA53331}|PermissionsAPI.csproj|solutionrelative:controllers\\tipopermisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T22:23:33.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTipoPermisoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\UpdateTipoPermisoHandler.cs",
+              "RelativeDocumentMoniker": "Services\\CQRS\\Handlers\\UpdateTipoPermisoHandler.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\UpdateTipoPermisoHandler.cs",
+              "RelativeToolTip": "Services\\CQRS\\Handlers\\UpdateTipoPermisoHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:23:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestPermissionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\RequestPermissionHandler.cs",
+              "RelativeDocumentMoniker": "Services\\CQRS\\Handlers\\RequestPermissionHandler.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\RequestPermissionHandler.cs",
+              "RelativeToolTip": "Services\\CQRS\\Handlers\\RequestPermissionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:22:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModifyPermissionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\ModifyPermissionHandler.cs",
+              "RelativeDocumentMoniker": "Services\\CQRS\\Handlers\\ModifyPermissionHandler.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\ModifyPermissionHandler.cs",
+              "RelativeToolTip": "Services\\CQRS\\Handlers\\ModifyPermissionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:22:46.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetPermissionsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\GetPermissionsHandler.cs",
+              "RelativeDocumentMoniker": "Services\\CQRS\\Handlers\\GetPermissionsHandler.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\GetPermissionsHandler.cs",
+              "RelativeToolTip": "Services\\CQRS\\Handlers\\GetPermissionsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:22:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-10T21:02:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllTipoPermisosHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\GetAllTipoPermisosHandler.cs",
+              "RelativeDocumentMoniker": "Services\\CQRS\\Handlers\\GetAllTipoPermisosHandler.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\GetAllTipoPermisosHandler.cs",
+              "RelativeToolTip": "Services\\CQRS\\Handlers\\GetAllTipoPermisosHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:22:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTipoPermisoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\CreateTipoPermisoHandler.cs",
+              "RelativeDocumentMoniker": "Services\\CQRS\\Handlers\\CreateTipoPermisoHandler.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\CQRS\\Handlers\\CreateTipoPermisoHandler.cs",
+              "RelativeToolTip": "Services\\CQRS\\Handlers\\CreateTipoPermisoHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:22:21.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoPermiso.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Models\\TipoPermiso.cs",
+              "RelativeDocumentMoniker": "Models\\TipoPermiso.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Models\\TipoPermiso.cs",
+              "RelativeToolTip": "Models\\TipoPermiso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:21:53.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "Models\\Permission.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Models\\Permission.cs",
+              "RelativeToolTip": "Models\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:21:29.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoPermisoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\TipoPermisoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TipoPermisoDto.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\TipoPermisoDto.cs",
+              "RelativeToolTip": "DTOs\\TipoPermisoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:20:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestTipoPermisoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\RequestTipoPermisoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestTipoPermisoDto.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\RequestTipoPermisoDto.cs",
+              "RelativeToolTip": "DTOs\\RequestTipoPermisoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:19:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestPermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\RequestPermissionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestPermissionDto.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\RequestPermissionDto.cs",
+              "RelativeToolTip": "DTOs\\RequestPermissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:19:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PermissionTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\PermissionTypeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PermissionTypeDto.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\PermissionTypeDto.cs",
+              "RelativeToolTip": "DTOs\\PermissionTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:19:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\PermissionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PermissionDto.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\PermissionDto.cs",
+              "RelativeToolTip": "DTOs\\PermissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:19:21.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModifyPermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\ModifyPermissionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ModifyPermissionDto.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\ModifyPermissionDto.cs",
+              "RelativeToolTip": "DTOs\\ModifyPermissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:19:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateTipoPermisoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\CreateTipoPermisoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateTipoPermisoDto.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\DTOs\\CreateTipoPermisoDto.cs",
+              "RelativeToolTip": "DTOs\\CreateTipoPermisoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:19:05.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:18:56.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TipoPermisoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\TipoPermisoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\TipoPermisoRepository.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\TipoPermisoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\TipoPermisoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:18:50.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PermissionRepository.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\PermissionRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PermissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:18:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Data\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Data\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:18:33.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "Services\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\KafkaProducer.cs",
+              "RelativeToolTip": "Services\\KafkaProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:02:42.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ElasticSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\ElasticSearchService.cs",
+              "RelativeDocumentMoniker": "Services\\ElasticSearchService.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Services\\ElasticSearchService.cs",
+              "RelativeToolTip": "Services\\ElasticSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:02:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:02:32.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TipoPermisosController.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Controllers\\TipoPermisosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoPermisosController.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\Controllers\\TipoPermisosController.cs",
+              "RelativeToolTip": "Controllers\\TipoPermisosController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwDAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:58:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PermissionRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI.Testss\\UnitTest\\PermissionRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\PermissionsAPI.Testss\\UnitTest\\PermissionRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI.Testss\\UnitTest\\PermissionRepositoryTests.cs",
+              "RelativeToolTip": "..\\PermissionsAPI.Testss\\UnitTest\\PermissionRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:58:49.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
