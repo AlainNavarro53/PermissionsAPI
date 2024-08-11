@@ -5,7 +5,6 @@ import RequestPermissionForm from './components/RequestPermissionForm';
 import TipoPermisoList from './components/TipoPermisoList';
 import CreateTipoPermisoForm from './components/CreateTipoPermisoForm';
 import PermissionList from './components/PermissionList'
-// Importa los demás componentes para el manejo de TipoPermisos
 
 function App() {
   return (
