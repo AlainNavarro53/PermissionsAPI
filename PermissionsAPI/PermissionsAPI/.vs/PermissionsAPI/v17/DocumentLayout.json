@@ -116,21 +116,19 @@
               "RelativeToolTip": "..\\PermissionsAPI.Testss\\IntegrationTests\\PermissionsApiIntegrationTests.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwBsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:13:19.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:13:19.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PermissionsAPI.Testss",
+              "Title": "PermissionsAPI.Testss.csproj",
               "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
               "RelativeDocumentMoniker": "..\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
               "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
               "RelativeToolTip": "..\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-11T04:13:17.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:13:17.383Z"
             },
             {
               "$type": "Document",
@@ -142,8 +140,7 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-11T04:12:13.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:12:13.742Z"
             },
             {
               "$type": "Document",
@@ -155,8 +152,7 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAADkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:11:54.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:11:54.828Z"
             },
             {
               "$type": "Document",
@@ -168,8 +164,7 @@
               "RelativeToolTip": "Mappings\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:11:18.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:11:18.293Z"
             },
             {
               "$type": "Document",
@@ -181,8 +176,7 @@
               "RelativeToolTip": "Controllers\\PermissionsController.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:10:41.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:10:41.307Z"
             },
             {
               "$type": "Document",
@@ -194,8 +188,7 @@
               "RelativeToolTip": "Services\\CQRS\\Handlers\\GetPermissionsHandler.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwB4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:09:52.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:09:52.006Z"
             },
             {
               "$type": "Document",
@@ -207,8 +200,7 @@
               "RelativeToolTip": "Services\\CQRS\\Commands\\RequestPermissionCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:09:45.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:09:45.177Z"
             },
             {
               "$type": "Document",
@@ -220,8 +212,7 @@
               "RelativeToolTip": "Services\\CQRS\\Queries\\GetPermissionsQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:09:26.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:09:26.056Z"
             },
             {
               "$type": "Document",
@@ -233,8 +224,7 @@
               "RelativeToolTip": "Services\\CQRS\\Queries\\GetAllTipoPermisosQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:09:21.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:09:21.936Z"
             },
             {
               "$type": "Document",
@@ -246,8 +236,7 @@
               "RelativeToolTip": "DTOs\\PermissionDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:08:31.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:08:31.734Z"
             },
             {
               "$type": "Document",
@@ -259,8 +248,7 @@
               "RelativeToolTip": "DTOs\\RequestPermissionDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:08:27.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:08:27.394Z"
             },
             {
               "$type": "Document",
@@ -272,8 +260,7 @@
               "RelativeToolTip": "DTOs\\PermissionTypeDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:08:11.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:08:11.27Z"
             },
             {
               "$type": "Document",
@@ -285,8 +272,7 @@
               "RelativeToolTip": "DTOs\\TipoPermisoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:08:03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:08:03Z"
             },
             {
               "$type": "Document",
@@ -298,8 +284,7 @@
               "RelativeToolTip": "DTOs\\UpdateTipoPermisoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:07:57.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:07:57.11Z"
             },
             {
               "$type": "Document",
@@ -311,8 +296,7 @@
               "RelativeToolTip": "DTOs\\RequestTipoPermisoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:07:43.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:07:43.243Z"
             },
             {
               "$type": "Document",
@@ -324,8 +308,7 @@
               "RelativeToolTip": "DTOs\\CreateTipoPermisoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:07:35.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:07:35.429Z"
             },
             {
               "$type": "Document",
@@ -337,8 +320,7 @@
               "RelativeToolTip": "Models\\TipoPermiso.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:06:33.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:06:33.785Z"
             },
             {
               "$type": "Document",
@@ -350,21 +332,19 @@
               "RelativeToolTip": "Models\\Permission.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:06:30.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:06:30.901Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "PermissionsAPI",
+              "Title": "PermissionsAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj",
               "RelativeDocumentMoniker": "PermissionsAPI.csproj",
               "ToolTip": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj",
               "RelativeToolTip": "PermissionsAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-11T04:05:50.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:05:50.265Z"
             }
           ]
         }
