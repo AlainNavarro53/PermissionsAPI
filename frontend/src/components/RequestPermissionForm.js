@@ -1,16 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Button, TextField, Container, Typography, Box, Paper, Grid, Snackbar, Alert, CircularProgress } from '@mui/material';
-import { Autocomplete } from '@mui/material'; // Importar Autocomplete
+import { Autocomplete } from '@mui/material';
 import { API_BASE_URL } from './endpoints.ts';
 import { useNavigate } from 'react-router-dom';
 
 const RequestPermissionForm = () => {
   const [nombreEmpleado, setNombreEmpleado] = useState('');
   const [apellidoEmpleado, setApellidoEmpleado] = useState('');
-  const [tipoPermisoId, setTipoPermisoId] = useState(null); // Cambia a null inicialmente
+  const [tipoPermisoId, setTipoPermisoId] = useState(null); 
   const [fechaPermiso, setFechaPermiso] = useState('');
-  const [tiposPermiso, setTiposPermiso] = useState([]); // Estado para almacenar los tipos de permiso
+  const [tiposPermiso, setTiposPermiso] = useState([]); 
   const [loading, setLoading] = useState(true);
   const [openSnackbar, setOpenSnackbar] = useState(false);
   const [snackbarMessage, setSnackbarMessage] = useState('');
@@ -20,7 +20,7 @@ const RequestPermissionForm = () => {
   useEffect(() => {
     axios.get(`${API_BASE_URL}/api/tipoPermisos`)
       .then((response) => {
-        const data = response.data.$values; // Acceder al array dentro de $values
+        const data = response.data.$values;
         setTiposPermiso(Array.isArray(data) ? data : []);
         setLoading(false);
       })
