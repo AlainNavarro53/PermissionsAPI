@@ -11765,11 +11765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
+      "projectUniqueName": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
       "projectName": "PermissionsAPI.Testss",
-      "projectPath": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
+      "projectPath": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI.Testss\\PermissionsAPI.Testss.csproj",
       "packagesPath": "C:\\Users\\Metrica Andina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI.Testss\\obj\\",
+      "outputPath": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI.Testss\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11791,8 +11791,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj": {
-              "projectPath": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj"
+            "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj": {
+              "projectPath": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj"
             }
           }
         }

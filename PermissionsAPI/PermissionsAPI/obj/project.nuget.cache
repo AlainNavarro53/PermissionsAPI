@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OxcuPNd6YVs=",
+  "dgSpecHash": "ev/PKd+7+F4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Metrica Andina\\Desktop\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Metrica Andina\\Desktop\\PERMISOS-API\\PermissionsAPI\\PermissionsAPI\\PermissionsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Metrica Andina\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Metrica Andina\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
