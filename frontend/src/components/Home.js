@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <Box 
       sx={{
-        backgroundColor: '#e0e0e0', // Color neutro más oscuro para el fondo
+        backgroundColor: '#e0e0e0',
         minHeight: '100vh',
         display: 'flex',
         alignItems: 'center',
